@@ -1,0 +1,21 @@
+TÍTULO: Habitantes dependientes del “escudo social”. Por CCAA. 4T2024
+
+Gráficos @jongonzlz
+
+Habitantes dependientes del “escudo social”. Por CCAA. 4T2024
+
+20 de junio de 2025 10:21
+
+Desigualdad
+Pensiones
+Empleo
+
+El 33,1% de los habitantes de España dependen del "escudo social", estimado como suma del nº de pensionistas, perceptores de IMV y parados.
+
+En el gráfico presento una estimación por Comunidades Autónomas, de la menos dependiente a la más dependiente
+
+Un disclaimer a tener en cuenta es que puede haber beneficiarios concurrentes de dos o más prestaciones sociales por lo que los datos podrían ser ligeramente inferiores a la estimación y que para el IMV se está tomando el número total de beneficiarios, no el número de titulares.
+
+Por otro lado, por simplificar se toma el número de parados, no el de perceptores de prestación por desempleo + subsidios por desempleo. Podría ocurrir que haya parados sin percibir ninguna prestación o que haya perceptores de subsidios que no se declaran como parados en la EPA (ver subsidio>52 años)
+
+Otro disclaimer es que hay más prestaciones que el Gobierno incluye dentro del "escudo social" como los ERTE, el bono social de electricidad o las rentas de inserción de otras CCAA (por ejemplo RGI en País Vasco) que no están incluidos en este gráfico

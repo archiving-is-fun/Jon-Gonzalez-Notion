@@ -13,7 +13,7 @@ Si alguien dispone de alguna gráfica o contenido de Jon que todavía no se encu
 Por favor, intentad respetar el formato actual:
 
 - Cada gráfica debe ir dentro de su propia carpeta
-- Utilizar el formato `Num_TituloGrafica`
+- Utilizar el formato `TituloGrafica`
 - Si Jon añadió texto o explicaciones, incluirlas en un archivo `.txt` o `.md`
 - Añadir también la imagen correspondiente
 

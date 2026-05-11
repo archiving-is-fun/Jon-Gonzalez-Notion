@@ -1,0 +1,11 @@
+TÍTULO: Probabilidad de percibir un salario superior al dado (eje x). Sector público/privado. 2022
+
+Gráficos @jongonzlz
+
+Probabilidad de percibir un salario superior al dado (eje x). Sector público/privado. 2022
+
+20 de junio de 2025 11:16
+
+Salarios
+
+Dado un salario bruto, ¿Cuál es la probabilidad de cobrar más que este en función del sector (privado/público para empleados con estudios superiores?
